@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, I'm Sai Teja Vankayala 👋
 
 <!--
 **saitejavankayala/saitejavankayala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
