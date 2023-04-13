@@ -1,5 +1,5 @@
 ### <H2>Hello, I'm <B>Sai Teja Vankayala</B> 👋</H2>
-### <H1> I'm a React Native Developer</h1>
+### <H1> I'm a Mobile App Developer</h1>
 <!--
 **saitejavankayala/saitejavankayala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
