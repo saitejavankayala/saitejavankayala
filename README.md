@@ -6,4 +6,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saitejavankayala&show_icons=true" alt="saitejavanakyala" /></p>
 
-
+<p align="center">
+  <img src="https://github.com/eenlpe1/eenlpe1/blob/master/generated/languages.svg#gh-dark-mode-only" />
+  <img src="https://github.com/eenlpe1/eenlpe1/blob/master/generated/overview.svg#gh-dark-mode-only" />
+</p>
