@@ -4,5 +4,7 @@
 
 <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saitejavankayala&layout=compact&hide=html" alt="saitejavankayala" /></p>
 
+<br/>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saitejavankayala&show_icons=true" alt="saitejavanakyala" /></p>
 
